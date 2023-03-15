@@ -4,7 +4,7 @@
 <a align="center" href="https://dylam19.github.io/portafolio/" target="_blank">- 📝 Portfolio</a>
 
 <div align="center">
-  <img src="https://dylam19.github.io/portafolio/images/logo-pag-2.png" style="width 500%; height: 50%;"/>
+  <img src="https://dylam19.github.io/portafolio/images/logo-pag-2.png" style="width 50%; height: 250px;"/>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
