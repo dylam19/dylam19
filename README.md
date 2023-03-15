@@ -6,7 +6,7 @@
     <img src="https://dylam19.github.io/portafolio/images/logo-pag-2.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Dylan Rivas</h3>
 
   <p align="center">
     <br />
