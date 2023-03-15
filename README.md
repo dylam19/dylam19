@@ -13,7 +13,7 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template">View repository</a>
+    <a href="https://github.com/dylam19/portafolio" target"_blank">View repository</a>
     ·
   </p>
 </div>
