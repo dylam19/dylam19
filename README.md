@@ -9,7 +9,6 @@
   <h3 align="center">Dylan Rivas</h3>
   <p align="center">
     <br />
-    <a href="https://dylam19.github.io/portafolio/" target="_blank"><strong>Visit my personal portfolio »</strong></a>
     <br />
     <br />
     ·
