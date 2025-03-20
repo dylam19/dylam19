@@ -4,7 +4,7 @@
 <div align="center">
   <br><br>
   <a href="https://dylam19.github.io/portafolio/" target="_blank">
-    <img src="https://dylam19.github.io/portafolio/images/logo-pag-2.png" alt="Logo" width="100" height="100">
+    <img src="logo-pag-2.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Dylan Rivas</h3>
   <p align="center">
