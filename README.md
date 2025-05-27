@@ -1,5 +1,5 @@
 <h1 align="center">☕ Welcome to my profile ☕</h1>
-<h3 align="center">SAP ABAP Developer-BackEnd Dev && computer technician</h3>
+<h3 align="center">BackEnd Dev && computer technician</h3>
 
 <div align="center">
   <br><br>
